@@ -1,0 +1,2 @@
+# Detection_of_Parkison_Disease
+Detection of ParkisonsDisease
